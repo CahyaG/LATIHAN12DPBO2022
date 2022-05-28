@@ -10,5 +10,3 @@ define("APP_NAME","NAMA_FOLDER_PADA_HTDOCS");
 ```
 
 ## Result
-
-/result.mp4
